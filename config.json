@@ -1,0 +1,7 @@
+{
+  "cookie": "在此处粘贴你的爱发电Cookie",
+  "openai_api_key": "在此处粘贴你的OpenAI API Key",
+  "openai_api_base": "https://api.openai.com/v1",
+  "openai_model_name": "gpt-3.5-turbo",
+  "system_prompt": "你是一个友好且乐于助人的助手。"
+}
